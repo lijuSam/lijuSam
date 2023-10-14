@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liju Samuel</h1>
-<h3 align="center">Front-End Developer with 1+ years of experience </h3>
+<h3 align="center">Software Engineer with 1+ years of experience </h3>
 
 
 - 📫 How to reach me **liju13samuel@gmail.com**
